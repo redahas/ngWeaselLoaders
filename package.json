@@ -16,6 +16,8 @@
     "type": "git",
     "url": "https://github.com/redahas/ng-weasel-loaders.git"
   },
+  "style": "dist/css/ng-weasel-loaders.css",
+  "main": "src/ng-weasel-loaders.js",
   "licenses": [
     {
       "type": "MIT"
