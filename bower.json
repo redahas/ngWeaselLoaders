@@ -1,6 +1,21 @@
 {
   "name": "ng-weasel-loaders",
   "version": "0.0.1",
+    "main": [
+    "dist/css/ng-weasel-loaders.css",
+    "src/ng-weasel-loaders.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "lib",
+    "tasks",
+    "templates",
+    "test",
+    "*.gemspec",
+    "Rakefile",
+    "Gemfile"
+  ],
   "dependencies": {
   },
   "devDependencies": {
